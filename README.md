@@ -14,7 +14,7 @@ jupyter:
 ---
 
 <!-- #region -->
-[![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://doi.org/10.1287/ijoc.2023.1288)
+[![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)]()
 
 # The Hot Spot Coverage Patrol Problem: Formulations and Solution Approaches
 
