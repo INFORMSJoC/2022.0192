@@ -23,13 +23,15 @@ This archive is distributed in association with the [INFORMS Journal on Computin
 The purpose of this repository is to share the data used in the paper [The Hot Spot Coverage Patrol Problem: Formulations and Solution Approaches] by Y. Luo, B. Golden, and R. Zhang.
 
 ### Cite
+Below is the BibTex for citing this version of the data.
+
 ```bib
-@article{hscpp,
-    title=The Hot Spot Coverage Patrol Problem: Formulations and Solution Approaches},
+@article{hscpp_data,
+    title={Data for The Hot Spot Coverage Patrol Problem: Formulations and Solution Approaches},
     author={Y. Luo, B. Golden, and R. Zhang},
     year=2023,
     journal={{INFORMS Journal on Computing}},
-    note={to appear}
+    note={Forthcoming}
     url = {https://github.com/INFORMSJoC/2022.0192},
 }
 ```
