@@ -29,7 +29,8 @@ The purpose of this repository is to share the data used in the paper [The Hot S
     author={Y. Luo, B. Golden, and R. Zhang},
     year=2023,
     journal={{INFORMS Journal on Computing}},
-    pubstate={to appear}
+    note={to appear}
+    url = {https://github.com/INFORMSJoC/2022.0192},
 }
 ```
 
