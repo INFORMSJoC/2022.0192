@@ -31,7 +31,7 @@ Below is the BibTex for citing this version of the data.
     author={Y. Luo, B. Golden, and R. Zhang},
     year=2023,
     journal={{INFORMS Journal on Computing}},
-    note={Forthcoming}
+    note={Forthcoming},
     url = {https://github.com/INFORMSJoC/2022.0192},
 }
 ```
