@@ -20,7 +20,7 @@ jupyter:
 
 This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-The purpose of this repository is to share the data used in the paper [The Hot Spot Coverage Patrol Problem: Formulations and Solution Approaches] by Y. Luo, B. Golden, and R. Zhang.
+The purpose of this repository is to share the data used in the paper "The Hot Spot Coverage Patrol Problem: Formulations and Solution Approaches" by Y. Luo, B. Golden, and R. Zhang.
 
 ### Cite
 Below is the BibTex for citing this version of the data.
