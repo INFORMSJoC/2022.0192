@@ -54,7 +54,18 @@ Each file includes the prize, the distance matrix, and the coordinates of the no
 
 
 ## Algorithm
-The algorithms in this paper will be provided at a later date when there is no conflict of interest.
+The Folder `src` includes the code scripts used in the paper. We include four Jupyter notebooks corresponding to our four approaches in the paper. Note that to run the column generation approach and the global approach with a warm start, the partition approach needs to be run first to generate initial solutions.
+
+## Requirements
+
+In this paper, we use the following Python packages:
+
+1. cspy (v1.0.1)
+2. gurobipy (v9.1.2)
+3. networkx (v2.5.1)
+4. numpy (v1.19.5)
+5. pickle (v4.0)
+
 
 ## Results
 We report the figures of our paper in the Folder `results`
@@ -63,7 +74,3 @@ We report the figures of our paper in the Folder `results`
 
 This software is released under the MIT license, which we report in file `LICENSE`.
 <!-- #endregion -->
-
-```python
-
-```
