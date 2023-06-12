@@ -27,8 +27,8 @@ Below is the BibTex for citing this version of the data.
 
 ```bib
 @article{hscpp_data,
-    title = {Data for The Hot Spot Coverage Patrol Problem: Formulations and Solution Approaches},
-    author = {Y. Luo, B. Golden, and R. Zhang},
+    title = {The Hot Spot Coverage Patrol Problem: Formulations and Solution Approaches},
+    author = {Y. Luo and B. Golden and R. Zhang},
     year = {2023},
     journal = {{INFORMS Journal on Computing}},
     doi={10.1287/ijoc.2022.0192.cd},
