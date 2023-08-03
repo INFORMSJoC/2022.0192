@@ -16,11 +16,11 @@ jupyter:
 <!-- #region -->
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# The Hot Spot Coverage Patrol Problem: Formulations and Solution Approaches
+# [The Hot Spot Coverage Patrol Problem: Formulations and Solution Approaches](https://doi.org/10.1287/ijoc.2022.0192)
 
 This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-The purpose of this repository is to share the data and algorithms (source code) used in the paper "The Hot Spot Coverage Patrol Problem: Formulations and Solution Approaches" by Y. Luo, B. Golden, and R. Zhang.
+The purpose of this repository is to share the data and algorithms (source code) used in the paper ["The Hot Spot Coverage Patrol Problem: Formulations and Solution Approaches"](https://doi.org/10.1287/ijoc.2022.0192) by Y. Luo, B. Golden, and R. Zhang.
 
 ### Cite
 Below is the BibTex for citing this version of the data.
